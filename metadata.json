@@ -1,0 +1,6 @@
+{
+  "name": "SmartLiving Residence Platform",
+  "description": "Platform web terintegrasi untuk pengelolaan perumahan modern yang menghubungkan pengembang, pengurus RT/RW, warga, security, UMKM, dan teknisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
